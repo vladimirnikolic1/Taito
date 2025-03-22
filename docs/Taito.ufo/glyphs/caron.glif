@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+  <advance width="1138"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="586" y="986" type="line"/>
+      <point x="923" y="986" type="line"/>
+      <point x="867" y="724" type="line"/>
+      <point x="246" y="724" type="line"/>
+      <point x="190" y="986" type="line"/>
+      <point x="527" y="986" type="line"/>
+      <point x="556" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="953" type="line"/>
+      <point x="269" y="754" type="line"/>
+      <point x="844" y="754" type="line"/>
+      <point x="886" y="953" type="line"/>
+      <point x="609" y="953" type="line"/>
+      <point x="571" y="776" type="line"/>
+      <point x="541" y="776" type="line"/>
+      <point x="504" y="953" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="773" type="line"/>
+      <point x="590" y="773" type="line"/>
+      <point x="624" y="934" type="line"/>
+      <point x="863" y="934" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="934" type="line"/>
+      <point x="489" y="934" type="line"/>
+      <point x="523" y="773" type="line"/>
+      <point x="284" y="773" type="line"/>
+    </contour>
+  </outline>
+</glyph>
